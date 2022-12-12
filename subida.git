@@ -1,0 +1,11 @@
+#!/bin/git 
+
+git baja
+
+git add .
+git nota $1
+git sube
+
+git st
+
+git lodag
